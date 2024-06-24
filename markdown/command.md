@@ -10,11 +10,11 @@
 
 - `mkdir {directory_name}`
   - 폴더 생성
-  - `touch {file-name}`
+  - `touch {file_name}`
   - 파일 생성
 
 - `rm{name}`
   - 파일 삭제
   - `-r`(option) : 폴더 삭제
 
-- `cd` (chante directory)
+- `cd` (change directory)
